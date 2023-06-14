@@ -1,0 +1,15 @@
+html{
+    background-color: skyblue;
+}
+
+.centr{
+    text-align: center;
+}
+.list1{
+    text-align: left;
+    background-color: rgb(115, 132, 141);
+}
+.list2{
+    background-color: azure;
+    text-align: left;
+}
